@@ -1,0 +1,40 @@
+
+
+
+.fixed{
+	margin: 0;
+position: fixed;
+width: 200px;
+height:100px;
+position: fixed;
+background-color: lightgrey;
+}
+
+.main{
+left: 30%;
+position: fixed;
+right: 30%;
+background-color: lightgrey;
+}
+
+.relative{
+	margin: 5;
+width: 200px;
+height:100px;
+position: absolute:;
+background-color: darkgrey;
+top: 30px;
+	
+}
+
+.absolute{
+	margin: 5;
+width: 200px;
+height:100px;
+position: absolute:;
+background-color: darkgrey;
+top: 30px;
+right:4%;
+float:right;
+
+}
